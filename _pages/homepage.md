@@ -15,8 +15,7 @@ published: true
 [text_box text_color="dark" width="45" width__sm="60" padding="25px" animate="bounceIn" position_x="0" position_y="85" text_align="left" bg="#f2f2f2" depth="1"]
 
 <h4>PROMOÇÃO DE RELÓGIOS</h4>
-<h2><strong>ATÉ 40%
- OFF</strong></h2>
+<h2><strong>ATÉ 40%<br />OFF</strong></h2>
 <p>Relógios Tommy Hilfigher, Invicta, Fossil e muito mais!</p>
 <p>
 [button text="COMPRAR AGORA" animate="fadeInUp"]
@@ -29,8 +28,7 @@ published: true
 
 [text_box style="circle" width="38" width__sm="60" padding="30px 30px 30px 30px" position_x="100" position_y="95" bg="rgba(0, 0, 0, 0.86)" depth="3"]
 
-<h2 class="uppercase"><strong>CAMA, MESA &
- BANHO</strong></h2>
+<h2 class="uppercase"><strong>CAMA, MESA &<br />BANHO</strong></h2>
 <h3>10% OFF em toda a categoria</h3>
 [button text="COMPRAR AGORA" color="white" style="outline"]
 
@@ -103,7 +101,7 @@ published: true
 
 [text_box width="40" width__sm="100" position_x="50" position_y="50"]
 
-<h3 class="uppercase"><strong>Móveis e Decorações</strong></h3>
+<h3 class="uppercase"><strong>Casa e Decoração</strong></h3>
 
 [/text_box]
 
