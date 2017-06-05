@@ -95,26 +95,13 @@ published: true
 [/ux_banner]
 
 [/col_grid]
-[col_grid span="3" span__sm="6" height="1-2"]
+[col_grid span="3" span__sm="6"]
 
 [ux_banner height="500px" bg="118" bg_overlay="rgba(0, 0, 0, 0.58)" hover="overlay-add-50" hover_alt="overlay-add" link="#"]
 
-[text_box width="40" width__sm="100" position_x="50" position_y="50"]
+[text_box width="47" width__sm="100" position_x="50" position_y="50"]
 
 <h3 class="uppercase"><strong>Casa e Decoração</strong></h3>
-
-[/text_box]
-
-[/ux_banner]
-
-[/col_grid]
-[col_grid span="3" span__sm="6" height="1-2"]
-
-[ux_banner height="500px" bg="120" bg_overlay="rgba(0, 0, 0, 0.58)" hover="overlay-add-50" hover_alt="overlay-add" link="#"]
-
-[text_box width="40" width__sm="97" position_x="50" position_y="50"]
-
-<h3 class="uppercase"><strong>Alimentos em Geral</strong></h3>
 
 [/text_box]
 
