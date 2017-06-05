@@ -116,7 +116,7 @@ published: true
 
 [title style="bold-center" text="novos lançamentos!"]
 
-[ux_products style="shade" slider_nav_style="simple" slider_nav_position="outside" cat="25"]
+[ux_products style="label" slider_nav_style="simple" slider_nav_position="outside"]
 
 [gap]
 
