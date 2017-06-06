@@ -58,7 +58,7 @@ published: true
 
 [col_grid span="3" span__sm="12"]
 
-[ux_banner height="500px" bg="113" bg_overlay="rgba(0,0,0,.5)" hover="overlay-add-50" hover_alt="overlay-add" link="#"]
+[ux_banner height="500px" bg="113" bg_overlay="rgba(0,0,0,.5)" hover="overlay-add-50" hover_alt="overlay-add" link="http://iprovide.com.br/categoria-produto/roupas-e-acessorios/"]
 
 [text_box width="70" width__sm="100" scale="187" position_x="10" position_y="50"]
 
@@ -71,7 +71,7 @@ published: true
 [/col_grid]
 [col_grid span="6" height="1-2"]
 
-[ux_banner height="500px" bg="115" bg_overlay="rgba(0,0,0,.5)" hover="overlay-add-50" hover_alt="overlay-add" link="#"]
+[ux_banner height="500px" bg="115" bg_overlay="rgba(0,0,0,.5)" hover="overlay-add-50" hover_alt="overlay-add" link="http://iprovide.com.br/categoria-produto/eletrodomesticos/"]
 
 [text_box width="40" width__sm="100" position_x="50" position_y="50"]
 
@@ -84,7 +84,7 @@ published: true
 [/col_grid]
 [col_grid span="6" height="1-2"]
 
-[ux_banner height="500px" bg="116" bg_overlay="rgba(0,0,0,.5)" hover="overlay-add-50" hover_alt="overlay-add" link="#"]
+[ux_banner height="500px" bg="116" bg_overlay="rgba(0,0,0,.5)" hover="overlay-add-50" hover_alt="overlay-add" link="http://iprovide.com.br/categoria-produto/eletroeletronicos/"]
 
 [text_box width="40" width__sm="100" position_x="50" position_y="50"]
 
@@ -97,7 +97,7 @@ published: true
 [/col_grid]
 [col_grid span="3" span__sm="6"]
 
-[ux_banner height="500px" bg="118" bg_overlay="rgba(0, 0, 0, 0.58)" hover="overlay-add-50" hover_alt="overlay-add" link="#"]
+[ux_banner height="500px" bg="118" bg_overlay="rgba(0, 0, 0, 0.58)" hover="overlay-add-50" hover_alt="overlay-add" link="http://iprovide.com.br/categoria-produto/moveis-e-decoracoes/"]
 
 [text_box width="47" width__sm="100" position_x="50" position_y="50"]
 
